@@ -3,10 +3,10 @@ Guri Getsadze
 
 Software Developer
 -----------------------
-E-mail: getsadzeguram@gmail.com
-Facebook: https://www.facebook.com/hackerbanana
-Github : https://github.com/Guricopperfield
-Challengepost: http://challengepost.com/BadBoy17
+- E-mail: getsadzeguram@gmail.com
+- Facebook: https://www.facebook.com/hackerbanana
+- Github : https://github.com/Guricopperfield
+- Challengepost: http://challengepost.com/BadBoy17
 
 ## About me
 I'm 12 years old software developer from Tbilisi,Georgia. I started programming at age 9,and I really got great experience and met new people. When i'm not busy,I always attend lectures and tech talks,because I want to learn new things of all areas in technologies. I'm good at system programming,but I really,really don't like sport(competetive) programming. I have knowledge and 3 years experience of programming language C++. I also know basic C# and a bit Android Development. I have a small experience of web technologies,like web engines or HTML,CSS.
