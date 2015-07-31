@@ -6,7 +6,7 @@ Software Developer
 - E-mail: getsadzeguram@gmail.com
 - Facebook: https://www.facebook.com/hackerbanana
 - Github : https://github.com/getsadzeg
-- Challengepost: http://challengepost.com/BadBoy17
+- Devpost: http://devpost.com/BadBoy17
 
 ## About me
 I'm 13 years old software developer from Tbilisi,Georgia. I started programming at the age of 9,and I really got great experience and met new people. When i'm not busy,I always attend lectures and tech talks,because I want to learn new things of all areas in technologies. I'm good at system programming,but I really,really don't like sport(competetive) programming. I have knowledge and 3 years experience of programming language C++. I also know basic C# and basics of Android Development,too. I know git at medium level.(I'm learning it now) I have a small experience of web technologies,like web engines or HTML,CSS.
