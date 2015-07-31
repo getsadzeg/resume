@@ -5,7 +5,7 @@ Software Developer
 -----------------------
 - E-mail: getsadzeguram@gmail.com
 - Facebook: https://www.facebook.com/hackerbanana
-- Github : https://github.com/Guricopperfield
+- Github : https://github.com/getsadzeg
 - Challengepost: http://challengepost.com/BadBoy17
 
 ## About me
