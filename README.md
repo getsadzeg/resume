@@ -17,4 +17,4 @@ I love hackathons more than anything in the world. It's "competition" which help
 ## Education
 Due to my age,I'm school student and I'm in the seventh form. I study at Komarovi N199 public mathematical school. Before Komarovi,I studied at Tbilisi's N51 public school.
 
-Also I'm student of Information Technology Center named [Mziuri](www.mziuri.ge).
+Also I'm student of Information Technology Center named [Mziuri](http://mziuri.ge/).
