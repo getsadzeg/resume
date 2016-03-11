@@ -37,6 +37,6 @@ I love hackathons more than anything in the world. It's "competition" which help
 * [hackTBILISI Fall](http://hacktbilisi2015.devpost.com/) - created Android project [mtredi](https://github.com/getsadzeg/mtredi)
 
 ## Education
-Due to my age,I'm school student and I'm in the eighth form. I study at Komarovi N199 public mathematical school. Before Komarovi,I studied at Tbilisi's N51 public school.
+Considering to my age,I'm school student and I'm in the eighth form. I go to Komarovi N199 public mathematical school. Before Komarovi,I went to Tbilisi's N51 public school.
 
 Also I'm student of Information Technology Center named [Mziuri](http://mziuri.ge/).
