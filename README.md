@@ -26,7 +26,15 @@ I'm 13 years old software engineer from Tbilisi,Georgia. I started programming a
 * Web Development - tiny experience. I know HTML & CSS basics.
 
 ## Hackathons' experience
-I love hackathons more than anything in the world. It's "competition" which helps you to meet new people and learn new,great things. And of course I learned lot of things there. I attended [hack@MACS](http://hackatmacs.devpost.com/) and participated in [hack@Tbilisi](http://hacktbilisi.devpost.com/) and [hack@TSU](http://hacktsu.devpost.com). Me and my developers group created [cnNET](http://challengepost.com/software/cnnet) on hack@Tbilisi and created [AreYouAlive](http://devpost.com/software/areyoualive) on hack@TSU and we became one of the winners(AreYouAlive became uniHack's favourite project).
+I love hackathons more than anything in the world. It's "competition" which helps you to meet new people and learn new,great things. And of course I learned lot of things there. Here's my experience:
+
+* [hack@MACS](http://hackatmacs.devpost.com/) - just attended.
+
+* [hack@Tbilisi](http://hacktbilisi.devpost.com/) - created [cnNET](https://github.com/getsadzeg/cnNET)
+
+* [hackTSU](http://hacktsu.devpost.com/) - created Android project [AreYouAlive](https://github.com/getsadzeg/AreYouAlive)
+
+* [hackTBILISI Fall](http://hacktbilisi2015.devpost.com/) - created Android project [mtredi](https://github.com/getsadzeg/mtredi)
 
 ## Education
 Due to my age,I'm school student and I'm in the eighth form. I study at Komarovi N199 public mathematical school. Before Komarovi,I studied at Tbilisi's N51 public school.
