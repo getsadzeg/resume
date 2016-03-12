@@ -32,9 +32,9 @@ I love hackathons more than anything in the world. It's "competition" which help
 
 * [hack@Tbilisi](http://hacktbilisi.devpost.com/) - created [cnNET](https://github.com/getsadzeg/cnNET).
 
-* [hackTSU](http://hacktsu.devpost.com/) - created Android project [AreYouAlive](https://github.com/getsadzeg/AreYouAlive).
+* [hackTSU](http://hacktsu.devpost.com/) - created Android project [AreYouAlive](https://github.com/getsadzeg/AreYouAlive) and won.
 
-* [hackTBILISI Fall](http://hacktbilisi2015.devpost.com/) - created Android project [mtredi](https://github.com/getsadzeg/mtredi).
+* [hackTBILISI Fall](http://hacktbilisi2015.devpost.com/) - created Android project [mtredi](https://github.com/getsadzeg/mtredi) and won.
 
 ## Education
 Considering my age,I'm school student and I'm in the eighth form. I go to Komarovi N199 public mathematical school. Before Komarovi, I went to Tbilisi's N51 public school.
