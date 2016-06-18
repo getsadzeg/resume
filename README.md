@@ -9,7 +9,7 @@ Software Engineer
 - Devpost: http://devpost.com/BadBoy17
 
 ## About me
-I'm 13 years old software engineer from Tbilisi,Georgia. I started programming at the age of 9,and I really got great experience and met new people. When I'm not busy,I always attend lectures and tech talks,because I want to learn new things of all areas in technologies. Here's my experience and knowledge so far:
+I'm 14 years old software engineer from Tbilisi,Georgia. I started programming at the age of 9,and I really got great experience and met new people. When I'm not busy,I always attend lectures and tech talks,because I want to learn new things of all areas in technologies. Here's my experience and knowledge so far:
 
 * Pascal - tiny experience. Just basics.
 
