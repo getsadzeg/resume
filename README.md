@@ -40,6 +40,6 @@ I love hackathons more than anything in the world. It's "competition" which help
 I was originally recruited by [vardidzel](https://github.com/vardidzel) to work for Lapptech as enthusiast mobile developer. Probably it's greatest experience I've ever had, also with [great team](https://andromeda.ge/).
 
 ## Education
-Considering my age,I'm school student and I'm in the eighth form. I go to Komarovi N199 public mathematical school. Before Komarovi, I went to Tbilisi's N51 public school.
+Considering my age,I'm school student and I'm in the ninth form. I go to [Komarovi N199 public mathematical school](http://komarovi.edu.ge/). Before Komarovi, I went to Tbilisi's N51 public school.
 
 Also I'm student of Information Technology Center named [Mziuri](http://mziuri.ge/).
