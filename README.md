@@ -5,6 +5,7 @@ Software Engineer
 -----------------------
 - E-mail: getsadzeguram@gmail.com
 - Facebook: https://www.facebook.com/getsadzeg
+- Twitter: https://twitter.com/root_getsadzeg
 - Github : https://github.com/getsadzeg
 - Devpost: http://devpost.com/BadBoy17
 
