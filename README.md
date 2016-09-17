@@ -38,7 +38,7 @@ I love hackathons more than anything in the world. It's "competition" which help
 
 * [hackTBILISI Fall](http://hacktbilisi2015.devpost.com/) - created Android project [mtredi](https://github.com/getsadzeg/mtredi) and won.
 
-##Lapptech(2016-)
+##Lapptech(2016)
 I was originally recruited by [vardidzel](https://github.com/vardidzel) to work for Lapptech as enthusiast mobile developer. Probably it's greatest experience I've ever had, also with [great team](https://andromeda.ge/).
 
 ## Education
