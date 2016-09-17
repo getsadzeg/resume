@@ -14,7 +14,7 @@ I'm 14 years old software engineer from Tbilisi,Georgia. I started programming a
 
 * Pascal - tiny experience. Just basics.
 
-* [C++](https://github.com/getsadzeg/cpp-codes) - 3 years of non-working experience.
+* [C++](https://github.com/getsadzeg/cpp-codes) - 3 years experience. Created some small projects.
 
 * C# - small experience. Created [cnNET](https://github.com/getsadzeg/cnNET) with it.
 
