@@ -24,7 +24,8 @@ I'm 14 years old software engineer from Tbilisi,Georgia. I started programming a
 
 * Git - Using and learning simply everyday, after 2014.
 
-* Web Development - tiny experience. I know HTML & CSS basics.
+* Back-End Development - [Learning PHP](https://github.com/getsadzeg/php-codes) and small experience of creating back-ends such as [survey-back](https://github.com/getsadzeg/survey-back).
+* Front-End Development - no actual experience. I have knowledge of very very basic HTML & CSS.
 
 ## Hackathons' experience
 I love hackathons more than anything in the world. It's "competition" which helps you to meet new people and learn new,great things. Here's my experience:
