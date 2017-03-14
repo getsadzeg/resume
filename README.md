@@ -7,10 +7,10 @@ Software Engineer
 - Facebook: https://www.facebook.com/getsadzeg
 - Twitter: https://twitter.com/root_getsadzeg
 - Github : https://github.com/getsadzeg
-- Devpost: http://devpost.com/BadBoy17
+- Devpost: http://devpost.com/getsadzeg
 
 ## About me
-I'm 14 years old software engineer from Tbilisi,Georgia. I started programming at the age of 9,and I really got great experience and met new people. When I'm not busy,I always attend lectures and tech talks,because I want to learn new things of all areas in technologies. Here's my experience and knowledge so far:
+I'm 14 years old software engineer from Tbilisi,Georgia. I started programming at the age of 9, and I really got great experience and met new people. When I'm not busy, I always attend lectures and tech talks, because I want to learn new things of all areas in technologies. Here's my experience and knowledge so far:
 
 * Pascal - tiny experience. Just basics.
 
@@ -38,10 +38,10 @@ I love hackathons more than anything in the world. It's "competition" where you 
 
 * [hackTBILISI Fall](http://hacktbilisi2015.devpost.com/) - created Android project [mtredi](https://github.com/getsadzeg/mtredi) and won.
 
-##Lapptech(2016)
-I was originally recruited by [vardidzel](https://github.com/vardidzel) to work for Lapptech as enthusiast mobile developer and intern. Probably it's greatest experience I've ever had, also with [great team](https://andromeda.ge/).
+## Lapptech(2016)
+I was originally recruited by [vardidzel](https://github.com/vardidzel) to work for Lapptech as enthusiast mobile developer and intern. Probably it's greatest experience I've ever had with [team](https://andromeda.ge/). I left the company mainly because of time lack.
 
 ## Education
-Considering my age,I'm school student and I'm in the ninth form. I go to [Komarovi N199 public mathematical school](http://komarovi.edu.ge/). Before Komarovi, I went to Tbilisi's N51 public school.
+Considering my age, I'm school student and I'm in the ninth form. I go to [Komarovi N199 public school](http://komarovi.edu.ge/), which specializes in mathematics and physics. Before Komarovi, I went to Tbilisi's N51 public school.
 
 Also I'm student of Information Technology Center named [Mziuri](http://mziuri.ge/).
