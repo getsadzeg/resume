@@ -18,6 +18,8 @@ I'm 14 years old software engineer from Tbilisi,Georgia. I started programming a
 
 * C# - small experience. Created [cnNET](https://github.com/getsadzeg/cnNET) with it.
 
+* [Python](https://github.com/getsadzeg/python-codes) - I started learning python last winter, but umm.. Well I'm still big fan of semicolons. I don't need python very much at this time so I have no actual experience with it.
+
 * [Java](https://github.com/getsadzeg/java-codes) - I collected much experience in last two years, created some small projects. Such as [transport](https://github.com/getsadzeg/transport) and [gegram-class](https://github.com/getsadzeg/gegram-class), also [list-class](https://github.com/getsadzeg/list-class).
 
 * Android - My favourite thing. Created two projects on hackathons. [AreYouAlive](https://github.com/getsadzeg/AreYouAlive) and [mtredi](https://github.com/getsadzeg/mtredi).
