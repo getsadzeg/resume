@@ -10,7 +10,7 @@ Software Engineer
 - Devpost: http://devpost.com/getsadzeg
 
 ## About me
-I'm 14 years old software engineer from Tbilisi,Georgia. I started programming at the age of 9, and I really got great experience and met new people. When I'm not busy, I always attend lectures and tech talks, because I want to learn new things of all areas in technologies. Here's my experience and knowledge so far:
+I'm 15 years old software engineer from Tbilisi,Georgia. I started programming at the age of 9, and I really got great experience and met new people. When I'm not busy, I always attend lectures and tech talks, because I want to learn new things of all areas in technology. Here's my experience and knowledge so far:
 
 * Pascal - tiny experience. Just basics.
 
@@ -24,7 +24,7 @@ I'm 14 years old software engineer from Tbilisi,Georgia. I started programming a
 
 * Android - My favourite thing. Created two projects on hackathons. [AreYouAlive](https://github.com/getsadzeg/AreYouAlive) and [mtredi](https://github.com/getsadzeg/mtredi).
 
-* Git - Using and learning simply everyday, after 2014.
+* Git - Using on every project, after 2014.
 
 * Back-End Development - [Learning PHP](https://github.com/getsadzeg/php-codes) and small experience of creating back-ends such as [survey-back](https://github.com/getsadzeg/survey-back).
 * Front-End Development - no actual experience. I have knowledge of very very basic HTML & CSS.
@@ -36,14 +36,14 @@ I love hackathons more than anything in the world. It's "competition" where you 
 
 * [hack@Tbilisi](http://hacktbilisi.devpost.com/) - created [cnNET](https://github.com/getsadzeg/cnNET).
 
-* [hackTSU](http://hacktsu.devpost.com/) - created Android project [AreYouAlive](https://github.com/getsadzeg/AreYouAlive) and won.
+* [hackTSU](http://hacktsu.devpost.com/) - created Android project [AreYouAlive](https://github.com/getsadzeg/AreYouAlive) and became one of the winners.
 
-* [hackTBILISI Fall](http://hacktbilisi2015.devpost.com/) - created Android project [mtredi](https://github.com/getsadzeg/mtredi) and won.
+* [hackTBILISI Fall](http://hacktbilisi2015.devpost.com/) - created Android project [mtredi](https://github.com/getsadzeg/mtredi) and became one of the winners.
 
 ## Lapptech(2016)
-I was originally recruited by [vardidzel](https://github.com/vardidzel) to work for Lapptech as enthusiast mobile developer and intern. Probably it's greatest experience I've ever had with [team](https://andromeda.ge/). I left the company mainly because of time lack.
+I was originally recruited by [vardidzel](https://github.com/vardidzel) to work for Lapptech as enthusiast mobile developer and intern. It was great experience with the team. I left the company mainly because of time lack.
 
 ## Education
-Considering my age, I'm school student and I'm in the ninth form. I go to [Komarovi N199 public school](http://komarovi.edu.ge/), which specializes in mathematics and physics. Before Komarovi, I went to Tbilisi's N51 public school.
+Considering my age, I'm school student and I'm in the 10th form. I go to [Komarovi N199 public school](http://komarovi.edu.ge/), which specializes in mathematics and physics. Before Komarovi, I went to Tbilisi's N51 public school.
 
-Also I'm student of Information Technology Center named [Mziuri](http://mziuri.ge/).
+Also I'm student of Information Technology Center named [Mziuri](http://mziuri.ge/). Java group(which I was part of) even had [organisation](https://github.com/mziuri1) on GitHub.
