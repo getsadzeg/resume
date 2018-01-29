@@ -10,19 +10,24 @@ Software Engineer
 - Devpost: http://devpost.com/getsadzeg
 
 ## About me
-I'm 15 years old software engineer from Tbilisi,Georgia. I started programming at the age of 9, and I really got great experience and met new people. When I'm not busy, I always attend lectures and tech talks, because I want to learn new things of all areas in technology. Here's my experience and knowledge so far:
+I'm 15 years old software engineer from Tbilisi, Georgia. I got interested in programming at the age of 9. When I'm not busy, I always attend lectures and tech talks, because I want to learn new things of all areas in technology. Here's my experience and knowledge so far:
 
 * Pascal - tiny experience. Just basics.
 
-* [C++](https://github.com/getsadzeg/cpp-codes) - 3 years experience. Created some small projects.
+* [C++](https://github.com/getsadzeg/cpp-codes) - I was toying with it for 3 years as an amateur. Created some small projects.
 
 * C# - small experience. Created [cnNET](https://github.com/getsadzeg/cnNET) with it.
 
 * [Python](https://github.com/getsadzeg/python-codes) - I started learning python last winter, but umm.. Well I'm still big fan of semicolons. I don't need python very much at this time so I have no actual experience with it.
 
-* [Java](https://github.com/getsadzeg/java-codes) - I collected much experience in last two years, created some small projects. Such as [transport](https://github.com/getsadzeg/transport) and [gegram-class](https://github.com/getsadzeg/gegram-class), also [list-class](https://github.com/getsadzeg/list-class).
+* [Java](https://github.com/getsadzeg/java-codes) - I collected much experience in last two years, created some small projects. Such as:
 
-* Android - My favourite thing. Created two projects on hackathons. [AreYouAlive](https://github.com/getsadzeg/AreYouAlive) and [mtredi](https://github.com/getsadzeg/mtredi).
+   * [transport](https://github.com/getsadzeg/transport)
+   * [gegram-class](https://github.com/getsadzeg/gegram-class)
+   * [list-class](https://github.com/getsadzeg/list-class)
+   * [events](https://github.com/getsadzeg/events)
+
+* Android - My favourite thing. Created two projects on hackathons. [AreYouAlive](https://github.com/getsadzeg/AreYouAlive) and [mtredi](https://github.com/getsadzeg/mtredi) and currently pursuing a course on Udacity.
 
 * Git - Using on every project, after 2014.
 
@@ -30,7 +35,7 @@ I'm 15 years old software engineer from Tbilisi,Georgia. I started programming a
 * Front-End Development - no actual experience. I have knowledge of very very basic HTML & CSS.
 
 ## Hackathons' experience
-I love hackathons more than anything in the world. It's "competition" where you get fresh experience. Here's mine:
+I love hackathons. It's "competition" where you get fresh experience. Here's mine:
 
 * [hack@MACS](http://hackatmacs.devpost.com/) - just attended.
 
