@@ -10,7 +10,7 @@ Software Engineer
 - Devpost: http://devpost.com/getsadzeg
 
 ## About me
-I'm 15 years old aspiring software engineer from Tbilisi, Georgia. I got interested in programming at the age of 9. When I'm not busy, I always attend lectures and tech talks, because I want to learn new things of all areas in technology. Here's my experience and knowledge so far:
+I'm 16 years old aspiring software engineer from Tbilisi, Georgia. I got interested in programming at the age of 9. When I'm not busy, I always attend lectures and tech talks, because I want to learn new things of all areas in technology. Here's my experience and knowledge so far:
 
 * Pascal - tiny experience. Just basics.
 
