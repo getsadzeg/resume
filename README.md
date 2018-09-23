@@ -27,7 +27,7 @@ I'm 16 years old aspiring software engineer from Tbilisi, Georgia. I got interes
    * [list-class](https://github.com/getsadzeg/list-class)
    * [events](https://github.com/getsadzeg/events)
 
-* Android - My favourite thing. Created two projects on hackathons. [AreYouAlive](https://github.com/getsadzeg/AreYouAlive) and [mtredi](https://github.com/getsadzeg/mtredi) and currently pursuing a course on Udacity.
+* Android - My favourite thing. Created three projects on hackathons and I am currently pursuing a course on Udacity.
 
 * Git - Using on every project, after 2014.
 
@@ -45,10 +45,12 @@ I love hackathons. It's "competition" where you get fresh experience. Here's min
 
 * [hackTBILISI Fall](http://hacktbilisi2015.devpost.com/) - created Android project [mtredi](https://github.com/getsadzeg/mtredi) and became one of the winners.
 
+* [BOG Fintech Hackathon](https://fintech.ge/event/hackathon) - created Android project [QRAPP](https://github.com/getsadzeg/qrapp).
+
 ## Lapptech(2016)
 I was originally recruited by [vardidzel](https://github.com/vardidzel) to work for Lapptech as enthusiast mobile developer and intern. It was great experience with the team. I left the company mainly because of time lack.
 
 ## Education
-Considering my age, I'm school student and I'm in the 10th form. I go to [Komarovi N199 public school](http://komarovi.edu.ge/), which specializes in mathematics and physics. Before Komarovi, I went to Tbilisi's N51 public school.
+Considering my age, I'm school student and I'm in the 11th form. I go to [Komarovi N199 public school](http://komarovi.edu.ge/), which specializes in mathematics and physics. Before Komarovi, I went to Tbilisi's N51 public school.
 
-Also I'm student of Information Technology Center named [Mziuri](http://mziuri.ge/). Java group(which I was part of) even had [organisation](https://github.com/mziuri1) on GitHub.
+Also, I was student of Information Technology Center named [Mziuri](http://mziuri.ge/) for 5 years. Java group(which I was part of) even had [organisation](https://github.com/mziuri1) on GitHub.
