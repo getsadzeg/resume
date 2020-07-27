@@ -9,7 +9,7 @@ Software Engineer
 - Devpost: http://devpost.com/getsadzeg
 
 ## About me
-I'm 17 years old aspiring software engineer from Tbilisi, Georgia. I got interested in programming at the age of 9. When I'm not busy, I always attend lectures and tech talks, because I want to learn new things of all areas in technology. Here's my experience and knowledge so far:
+I'm 18 years old aspiring software engineer from Tbilisi, Georgia. I got interested in programming at the age of 9. When I'm not busy, I always attend lectures and tech talks, because I want to learn new things of all areas in technology. Here's my experience and knowledge so far:
 
 * Pascal - tiny experience. Just basics.
 
@@ -17,7 +17,7 @@ I'm 17 years old aspiring software engineer from Tbilisi, Georgia. I got interes
 
 * C# - small experience. Created [cnNET](https://github.com/getsadzeg/cnNET) with it.
 
-* [Python](https://github.com/getsadzeg/python-codes) - I started learning python last winter, but umm.. Well I'm still big fan of semicolons. I don't need python very much at this time so I have no actual experience with it.
+* [Python](https://github.com/getsadzeg/python-codes) - I don't need python very much at this time so I have no actual experience with it.
 
 * [Java](https://github.com/getsadzeg/java-codes) - I collected much experience in last two years, created some small projects. Such as:
 
@@ -34,7 +34,7 @@ I'm 17 years old aspiring software engineer from Tbilisi, Georgia. I got interes
 * Front-End Development - no actual experience. I have knowledge of very very basic HTML & CSS.
 
 ## Hackathons' experience
-I love hackathons. It's "competition" where you get fresh experience. Here's mine:
+I love hackathons. Hackathon is a competition where you get fresh experience in programming. Here's mine:
 
 * [hack@MACS](http://hackatmacs.devpost.com/) - just attended.
 
@@ -50,6 +50,6 @@ I love hackathons. It's "competition" where you get fresh experience. Here's min
 I was originally recruited by [vardidzel](https://github.com/vardidzel) to work for Lapptech as enthusiast mobile developer and intern. It was great experience with the team. I left the company mainly because of the lack of free time.
 
 ## Education
-Considering my age, I'm school student and I'm in the 12th form. I go to [Komarovi N199 public school](http://komarovi.edu.ge/), which specializes in mathematics and physics. Before Komarovi, I went to Tbilisi's N51 public school.
+In 2020, I graduated from [Komarovi N199 public school](http://komarovi.edu.ge/), which specializes in mathematics and physics. Before Komarovi, I went to Tbilisi's N51 public school.
 
-Also, I was student of Information Technology Center named [Mziuri](http://mziuri.ge/) for 5 years. Java group(which I was part of) even had [organisation](https://github.com/mziuri1) on GitHub.
+Also, I was student of Information Technology Center named [Mziuri](http://mziuri.ge/) for 5 years. Java group(which I was part of) even had an [organisation](https://github.com/mziuri1) on GitHub.
